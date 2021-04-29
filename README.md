@@ -1,2 +1,2 @@
 # BlackJack
-funzione: gioco del BlackJack eseguito completamente nel terminale con grafica.
+funzione: gioco del BlackJack eseguito completamente nel terminale (solo java)
